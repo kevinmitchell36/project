@@ -1,0 +1,16 @@
+
+main {
+  max-width: 50em;
+  margin: 0 auto;
+}
+
+header {
+  background-image: url('https://media.soundoflife.com/articles/462/anastasia-saldatava-7Ys0u4woGQs-unsplash_1024x1024.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  line-height: 1.2;
+  color: white;
+  padding: 10vw;
+}
